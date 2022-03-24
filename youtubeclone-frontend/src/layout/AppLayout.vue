@@ -1,7 +1,9 @@
 <template>
+<div>
   <AppHeader/>
   <AppSidebar/>
   <router-view/>
+  </div>
 </template>
 
 <script lang="ts">
