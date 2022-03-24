@@ -1,13 +1,12 @@
 <template>
-<div>
-  <AppHeader/>
-  <AppSidebar/>
-  <router-view/>
+  <div>
+    <AppHeader />
+    <AppSidebar />
+    <router-view />
   </div>
 </template>
 
 <script lang="ts">
-
 import AppHeader from './AppHeader.vue'
 import AppSidebar from './AppSidebar.vue'
 
