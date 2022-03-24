@@ -2,8 +2,10 @@
 https://www.youtube.com/watch?v=sDLcnZRKo74
 
 - Online https://utubeclone.netlify.app/
-- Backend https://github.com/manikandanraji/youtubeclone-backend
-- Frontend https://github.com/manikandanraji/youtubeclone-frontend
+
+- Backend https://github.com/lipengzhou/youtubeclone-backend
+
+- Frontend https://github.com/lipengzhou/youtubeclone-frontend
 
 
 
@@ -25,3 +27,19 @@ https://www.youtube.com/watch?v=sDLcnZRKo74
 
   npm run serve
 ```
+
+
+## Style
+- public/main.css
+- public.html
+```
+  <link rel="stylesheet" href="/main.css"
+```
+
+
+## Layout
+/src/layout
+
+
+
+## Route
